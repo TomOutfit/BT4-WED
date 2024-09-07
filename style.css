@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.images1 {
+    text-align: left;
+    padding: 20px 20px;
+}
+
+.images1 img {
+    width: 150px;
+    height: auto;
+}
+.Content4 {
+    color: aqua;
+}
+button.send, button.cancel {
+    width: 80px;
+    background: orange;
+    color: white;
+    height: 55px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+}
+
+button.send:hover, button.cancel:hover {
+    background: darkorange;
+}
+<footer>{
+    background: rgb(0, 217, 255);
+    width: 200px;
+    color: white;
+    text-align: center;
+    border-top: 1px;
+    padding: 20px;
+}
